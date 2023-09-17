@@ -24,7 +24,8 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Hello, this is the repository for the "Shop" project. In this repository, you will find the back-end of the application, and in the future, I will also publish the front-end, which is written in React.
+Follow the instructions below to use the application correctly.
 
 ## Installation
 
